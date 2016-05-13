@@ -1,7 +1,8 @@
 # Stock-location-for-Woocommerce
-Manage the stock locations froms the product pages.
+Manage the stock locations from the product pages.
 
 === Plugin Name ===
+
 Contributors: Microkloon
 
 Tags: woocommerce, stock, locations, location, products
